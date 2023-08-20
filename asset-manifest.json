@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/display-tooltip/static/css/main.8816d561.css",
+    "main.js": "/display-tooltip/static/js/main.d8e4d26c.js",
+    "index.html": "/display-tooltip/index.html",
+    "main.8816d561.css.map": "/display-tooltip/static/css/main.8816d561.css.map",
+    "main.d8e4d26c.js.map": "/display-tooltip/static/js/main.d8e4d26c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8816d561.css",
+    "static/js/main.d8e4d26c.js"
+  ]
+}
